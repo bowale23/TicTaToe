@@ -1,0 +1,6 @@
+
+#ignore modules
+node_modules/
+
+#ignore this
+tic-tac-toe/node_modules
